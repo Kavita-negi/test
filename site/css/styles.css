@@ -3,11 +3,14 @@ box-sizing: border-box;
 }
 .navbar{
   background-color: #FF8C00;
+  float:auto;
+
 }
 
 .navbar-brand {
   font-size: 200%;
   float:left;
+  padding: 15px 15px;
 }
 
 #nav-list {
